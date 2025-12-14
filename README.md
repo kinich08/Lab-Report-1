@@ -48,5 +48,5 @@ classDiagram
 - **ID:** 242002111
 - **Green University Bangladesh**
 - **Program:** B.Sc. in Computer Science and Engineering  
-- **Purpose:** Academic / Lab Submission
+- **Purpose:** Lab Submission
 
